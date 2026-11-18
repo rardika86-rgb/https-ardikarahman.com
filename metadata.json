@@ -1,0 +1,8 @@
+{
+  "name": "My Family · Kelas 3 — Ardika Rahman",
+  "description": "Website pembelajaran interaktif Bahasa Inggris Kelas 3 SD materi My Family bersama pengajar Ardika Rahman, lengkap dengan pohon keluarga, kartu kosakata, latihan kalimat, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
